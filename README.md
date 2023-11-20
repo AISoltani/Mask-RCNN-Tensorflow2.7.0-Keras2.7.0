@@ -260,7 +260,6 @@ Use this bibtex to cite this repository:
   howpublished={\url{https://github.com/matterport/Mask_RCNN}},
 }
 ```
-
 ## Contributing
 Contributions to this repository are welcome. Examples of things you can contribute:
 * Speed Improvements. Like re-writing some Python code in TensorFlow.
