@@ -35,7 +35,6 @@ ObjectDetection:
 	mask_rcnn_coco.h5
 	mrcnn-prediction.py
 ```
-
 # Code for Prediction/Inference
 
 The next code uses the pre-trained weights of the Mask R-CNN model based on the COCO dataset. The trained weights can be downloaded from [this link](https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5): https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5. The code is accessible through the [samples/mrcnn-prediction.py](samples/mrcnn-prediction.py) script.
